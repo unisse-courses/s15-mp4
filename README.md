@@ -1,6 +1,6 @@
 # Obscura
 
-## Authors
+## :joy_cat:Authors
 * Alba, Axel
 * Murillo, Martin
 * Velasco, Dan
