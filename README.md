@@ -1,5 +1,17 @@
 # Obscura
-## Team Members:
-* Velasco, Dan John
+
+## Authors
 * Alba, Axel
-* Murillo, Martin Miguel
+* Murillo, Martin
+* Velasco, Dan
+
+## Project setup
+```
+npm install
+```
+
+### Start development server
+```
+npm run dev
+```
+
