@@ -38,3 +38,8 @@ https://obscura-dlsu.herokuapp.com/
 - :heavy_check_mark:Create and delete posts 
 - :heavy_check_mark:Create comment and add hearts on posts 
 
+### :joy_cat:Login Credentials:
+| | username | password |
+|-|:--------:| --------:|
+|1| saeroyi  | danbam   |
+|2| jack     | jackjose |
