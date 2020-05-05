@@ -1,5 +1,7 @@
 # Obscura
 
+Live link: http://obscura-dlsu.herokuapp.com/
+
 ## :joy_cat:Authors
 * Alba, Axel
 * Murillo, Martin
@@ -15,10 +17,9 @@ npm install
 npm run dev
 ```
 
-### :white_check_mark:Working Features:
-- All pages are navigable
-- Discover Feed (all posts from other users)
-- Search User by username (try to search 'a' in the search box)
-- View a user's profile page
-- Edit own profile settings
-- Create comment on posts
+### :joy_cat:Login Credentials:
+| | username | password |
+|-|:--------:| --------:|
+|1| saeroyi  | danbam   |
+|2| jack     | jackjose |
+
